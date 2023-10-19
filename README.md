@@ -3,8 +3,9 @@
 =========================
 
 ### Project Overview
-
-... 
+How might we use machine learning to predict the user rating with the help of
+other features of an App.
+This project is about creating suitable model to predict the user rating of an application based on its others feature. 
 ...
 ...
 
