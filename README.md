@@ -20,7 +20,7 @@ Our problem is a Supervise learning regression problem. To solve this problem we
 
 ### Project Flowchart
 
-
+https://drive.google.com/file/d/17Owz15yqoCPSRAql7DvtegH2B-x3x_ap/view?usp=sharing
 
 ### Project Organization
 
@@ -34,42 +34,15 @@ https://drive.google.com/file/d/1lcg1z_k0_AlNGR7a8truXsLHSuL2Bd2Q/view?usp=drive
 
 03-pre-processing.ipynb : This notebook is for transforming our categorical columns into numerical columns throught various technique such as creating filter, doing dummies and changed datatypes.
 
-04-modelling baseline model.ipynb : This notebook 
+04-modelling baseline model.ipynb : This notebook is used to train our baseline modeling 
 
-05-modelling Linear regression with pipeline and gridsearch.ipynb : 
+05-modelling Linear regression with pipeline and gridsearch.ipynb : This notebook is used to find the best parameters for our Linear Regression model. 
 
-06-modelling Decision Tree Regressor with pipeline, gridsearch.ipynb : 
+06-modelling Decision Tree Regressor with pipeline, gridsearch.ipynb :  This notebook is used to find the best parameters for our Decision Regressor model. 
 
-07-findings.ipynb :
-
-* `src`
-    - Contains the project source code (refactored from the notebooks)
-
-* `.gitignore`
-    - Part of Git, includes files and folders to be ignored by Git version control
-
-* `capstine_env.yml`
-    - Conda environment specification
-
-* `Makefile`
-    - Automation script for the project
+07-findings.ipynb : This notebook is a summary of our project and a next step section.
 
 * `README.md`
     - Project landing page (this page)
-
-* `LICENSE`
-    - Project license
-
-### Dataset
-
-...
-...
-...
-
-### Credits & References
-
-...
-...
-...
-
+    
 --------
