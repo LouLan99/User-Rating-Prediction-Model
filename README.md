@@ -43,6 +43,6 @@ https://drive.google.com/file/d/1lcg1z_k0_AlNGR7a8truXsLHSuL2Bd2Q/view?usp=drive
 07-findings.ipynb : This notebook is a summary of our project and a next step section.
 
 * `README.md`
-    - Project landing page (this page)
-    
+    - https://github.com/brainstation-datascience/capstone-project-LouLan99/blob/main/README.md
+
 --------
